@@ -1,0 +1,27 @@
+@media screen and (max-width:600px){
+   .headar-section{
+    flex-direction: column;
+    margin-left: 50px;
+   } 
+   .nav-items{
+    flex-direction: column;
+    margin-left: 50px;
+  gap: 20px; 
+
+}
+.banner-section{
+  flex-direction: column;
+}
+.section2{
+  flex-direction: column;
+  gap: 500px;
+}
+.section5{
+  flex-direction: column;
+  gap: 50px;
+}
+.Newsletter{
+  flex-direction:column;
+  gap: 20px;
+}
+    

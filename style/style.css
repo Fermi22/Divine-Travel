@@ -64,13 +64,13 @@ background-repeat: no-repeat;
 font-family: Mulish;
 font-size: 50px;
 font-style: normal;
-font-weight: 600;
+font-weight: 400;
 line-height: normal;
 margin: 0 auto;
 text-align: center;
 }
 .form-sec{
-    
+
   margin: 0 auto;    
 justify-content: space-between;
 text-align: center;
@@ -81,19 +81,20 @@ text-align: center;
   background-color: #FF5400;
 }
 .section2{
-
+display: flex;
     min-height: 500px;
     max-width: 1200px;
     margin: 50px auto;
     display: flex;
     text-align: center;
-    background-color: #a2a2aa;
+    
 
 }
 .text-sec{
+background-color: #dddde7;
 margin-left: 20px;
 text-align: left;
-     
+   
      
      width: 50%;    
 
@@ -112,9 +113,9 @@ font-family: Mulish;
     text-align: center;}
 
     .destinations{
-        line-height: normal;
-            padding: 50px;
-            margin:auto 100px;
+        
+            
+            margin:0 auto;
         }
 .section4{
     min-height: 500px;
@@ -123,6 +124,7 @@ font-family: Mulish;
     
     text-align: center;   
 }
+
 .hotel{
     padding-left: 15px;
     background-color: rgb(225, 207, 207);

@@ -3,6 +3,9 @@
     flex-direction: column;
     margin-left: 50px;
    } 
+   .nav-container{
+    flex-direction: column;
+   }
    .nav-items{
     flex-direction: column;
     margin-left: 50px;
@@ -11,14 +14,24 @@
 }
 .banner-section{
   flex-direction: column;
+  background-position-x: 100%;
 }
+.form-sec{
+  flex-direction: column;
+
+}
+
 .section2{
   flex-direction: column;
-  gap: 500px;
+  gap: 20px;
+}
+.section3{
+  
 }
 .section5{
   flex-direction: column;
   gap: 50px;
+  max-width: 0 auto;
 }
 .Newsletter{
   flex-direction:column;
